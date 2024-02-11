@@ -12,4 +12,4 @@ To deploy this project run
 
 ## Documentation
 
-[Documentation]([https://linktodocumentation](https://theboroer.github.io/localtunnel-www/)https://theboroer.github.io/localtunnel-www/)
+[Documentation](https://theboroer.github.io/localtunnel-www/)
