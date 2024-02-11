@@ -4,8 +4,8 @@ Localtunnel  memberi url unik yang dapat diakses publik yang  mem-proxy semua pe
 
 Instal Localtunnel secara global (memerlukan NodeJS) agar dapat diakses di mana saja:
 
-$ npm install -g localtunnel	
+# $ npm install -g localtunnel	
 Mulai server web pada beberapa port lokal (misalnya http://localhost:8088) dan gunakan antarmuka baris perintah untuk meminta terowongan ke server lokal.
 
-$ lt --port 8088	
+# $ lt --port 8088	
 Mendapatkan url, misalnya https://flkajsfljas.loca.lt, yang dapat di bagikan dengan siapa pun selama instance lokal tetap aktif. Setiap permintaan akan dialihkan ke layanan lokal di port yang ditentukan.
